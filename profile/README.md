@@ -1,36 +1,109 @@
 <div align="center">
 
-# 🚀 **NEUONIX**
-### *Next-Generation Industrial AI Solutions & Digital Transformation*
+```
+███╗   ██╗███████╗██╗   ██╗ ██████╗ ███╗   ██╗██╗██╗  ██╗
+████╗  ██║██╔════╝██║   ██║██╔═══██╗████╗  ██║██║╚██╗██╔╝
+██╔██╗ ██║█████╗  ██║   ██║██║   ██║██╔██╗ ██║██║ ╚███╔╝
+██║╚██╗██║██╔══╝  ██║   ██║██║   ██║██║╚██╗██║██║ ██╔██╗
+██║ ╚████║███████╗╚██████╔╝╚██████╔╝██║ ╚████║██║██╔╝ ██╗
+╚═╝  ╚═══╝╚══════╝ ╚═════╝  ╚═════╝ ╚═╝  ╚═══╝╚═╝╚═╝  ╚═╝
+```
 
-[![Enterprise AI](https://img.shields.io/badge/Enterprise-AI%20Solutions-8B5CF6?style=for-the-badge&logo=artificial-intelligence&logoColor=white)](https://neonindustryai.com)
-[![Digital Transformation](https://img.shields.io/badge/Digital-Transformation-3B82F6?style=for-the-badge&logo=react&logoColor=white)](https://neonindustryai.com)
-[![Innovation](https://img.shields.io/badge/Innovation-Leader-10B981?style=for-the-badge&logo=lightning&logoColor=white)](https://neonindustryai.com)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=8B5CF6&center=true&vCenter=true&width=1000&lines=Next-Generation+Industrial+AI+Solutions;Democratizing+AI+for+All+Businesses;500%2B+Global+Clients+%7C+24+Countries;%2460M%2B+Revenue+%7C+75%2B+AI+Experts" alt="Typing SVG" />
 
----
+<div style="display: flex; justify-content: center; gap: 10px; margin: 20px 0;">
 
-### **Democratizing AI Technology for Businesses of All Sizes**
-
-*Transforming Industries Through Intelligent Automation, Enterprise Software, and Data-Driven Innovation*
+![Enterprise AI](https://img.shields.io/badge/🤖_Enterprise-AI_Solutions-8B5CF6?style=for-the-badge&labelColor=1a1a2e)
+![Digital Transform](https://img.shields.io/badge/⚡_Digital-Transformation-3B82F6?style=for-the-badge&labelColor=1a1a2e)
+![Innovation](https://img.shields.io/badge/🚀_Innovation-Leader-10B981?style=for-the-badge&labelColor=1a1a2e)
+![Global Reach](https://img.shields.io/badge/🌍_Global-24_Countries-F59E0B?style=for-the-badge&labelColor=1a1a2e)
 
 </div>
 
 ---
 
-## 📋 **Table of Contents**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header&text=&fontSize=0&animation=twinkling" width="100%"/>
 
-- [🏠 Home](#-home)
-- [🎯 Our Vision](#-our-vision)
-- [🚀 Our Mission](#-our-mission)
-- [💼 About Us](#-about-us)
-- [🔧 Our Services](#-our-services)
-- [🏆 Our Projects](#-our-projects)
-- [💎 Our Software Products](#-our-software-products)
-- [🌐 Our Solutions](#-our-solutions)
-- [🧠 Our Intelligence](#-our-intelligence)
-- [📊 Company Metrics](#-company-metrics)
-- [🌟 Why Choose Us](#-why-choose-us)
-- [📞 Contact Us](#-contact-us)
+### **🎯 Transforming Industries Through Intelligent Automation & Data-Driven Innovation**
+
+</div>
+
+<br/>
+
+<div align="center">
+
+## � **Navigation**
+
+<table>
+<tr>
+<td align="center" width="20%">
+<a href="#-home">
+<img src="https://img.icons8.com/3d-fluency/94/home.png" width="60"/><br/>
+<b>Home</b>
+</a>
+</td>
+<td align="center" width="20%">
+<a href="#-our-vision">
+<img src="https://img.icons8.com/3d-fluency/94/visible.png" width="60"/><br/>
+<b>Vision</b>
+</a>
+</td>
+<td align="center" width="20%">
+<a href="#-our-mission">
+<img src="https://img.icons8.com/3d-fluency/94/rocket.png" width="60"/><br/>
+<b>Mission</b>
+</a>
+</td>
+<td align="center" width="20%">
+<a href="#-about-us">
+<img src="https://img.icons8.com/3d-fluency/94/organization.png" width="60"/><br/>
+<b>About</b>
+</a>
+</td>
+<td align="center" width="20%">
+<a href="#-our-services">
+<img src="https://img.icons8.com/3d-fluency/94/services.png" width="60"/><br/>
+<b>Services</b>
+</a>
+</td>
+</tr>
+<tr>
+<td align="center" width="20%">
+<a href="#-our-projects">
+<img src="https://img.icons8.com/3d-fluency/94/project.png" width="60"/><br/>
+<b>Projects</b>
+</a>
+</td>
+<td align="center" width="20%">
+<a href="#-our-software-products">
+<img src="https://img.icons8.com/3d-fluency/94/software-box.png" width="60"/><br/>
+<b>Products</b>
+</a>
+</td>
+<td align="center" width="20%">
+<a href="#-our-solutions">
+<img src="https://img.icons8.com/3d-fluency/94/solution.png" width="60"/><br/>
+<b>Solutions</b>
+</a>
+</td>
+<td align="center" width="20%">
+<a href="#-our-intelligence">
+<img src="https://img.icons8.com/3d-fluency/94/artificial-intelligence.png" width="60"/><br/>
+<b>Intelligence</b>
+</a>
+</td>
+<td align="center" width="20%">
+<a href="#-contact-us">
+<img src="https://img.icons8.com/3d-fluency/94/phone.png" width="60"/><br/>
+<b>Contact</b>
+</a>
+</td>
+</tr>
+</table>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ---
 
@@ -38,20 +111,72 @@
 
 <div align="center">
 
-### **Welcome to the Future of Industrial AI**
+<img src="https://img.icons8.com/3d-fluency/200/artificial-intelligence.png" alt="AI Icon"/>
 
-We are **NeonIndustryAI** (CybrigePortfolio) — a pioneering force in **AI-powered automation**, **enterprise software development**, and **digital transformation**. With a team of **75+ passionate innovators**, we serve **500+ global clients** across **24 countries**, delivering cutting-edge solutions that drive measurable ROI and sustainable growth.
+### **🌟 Welcome to the Future of Industrial AI**
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=AI-Powered+Automation+%7C+Enterprise+Software;Digital+Transformation+%7C+500%2B+Global+Clients;75%2B+AI+Experts+%7C+24+Countries+Worldwide;%2460M%2B+Revenue+%7C+99.9%25+Uptime+SLA" alt="Typing SVG" />
+
+<br/>
+
+We are **NEUONIX** — a pioneering force in **AI-powered automation**, **enterprise software development**, and **digital transformation**. With a team of **75+ passionate innovators**, we serve **500+ global clients** across **24 countries**, delivering cutting-edge solutions that drive measurable ROI and sustainable growth.
 
 </div>
 
+<br/>
+
 ### **🎯 What Sets Us Apart**
 
-```
-✨ Enterprise-Grade AI Solutions    🚀 99.9% System Uptime
-💡 40% Cost Reduction              ⚡ 24/7 Intelligent Operations
-🌍 Global Presence (24 Countries)  🏆 500+ Successful Projects
-🔬 20+ Patents Filed               📈 $60M+ Annual Revenue
-```
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/3d-fluency/94/artificial-intelligence.png" width="70"/><br/>
+<b>Enterprise AI</b><br/>
+<sub>AI Solutions</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/3d-fluency/94/rocket.png" width="70"/><br/>
+<b>99.9% Uptime</b><br/>
+<sub>System Reliability</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/3d-fluency/94/money-bag.png" width="70"/><br/>
+<b>40% Cost Cut</b><br/>
+<sub>Average Savings</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/3d-fluency/94/clock.png" width="70"/><br/>
+<b>24/7 Operations</b><br/>
+<sub>Intelligent Automation</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/3d-fluency/94/globe.png" width="70"/><br/>
+<b>24 Countries</b><br/>
+<sub>Global Presence</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/3d-fluency/94/trophy.png" width="70"/><br/>
+<b>500+ Projects</b><br/>
+<sub>Successfully Delivered</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/3d-fluency/94/innovation.png" width="70"/><br/>
+<b>20+ Patents</b><br/>
+<sub>Innovation Filed</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/3d-fluency/94/graph.png" width="70"/><br/>
+<b>$60M+ Revenue</b><br/>
+<sub>Annual Growth</sub>
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
@@ -112,7 +237,7 @@ Empower:
 
 ### **🏢 Company Overview**
 
-**NeonIndustryAI** is a San Francisco-based AI innovation powerhouse, established in **2018** with a mission to revolutionize how businesses leverage artificial intelligence. We combine deep technical expertise with industry knowledge to deliver transformative solutions.
+**NEUONIX** is a San Francisco-based AI innovation powerhouse, established in **2018** with a mission to revolutionize how businesses leverage artificial intelligence. We combine deep technical expertise with industry knowledge to deliver transformative solutions.
 
 ### **👥 Our Team**
 
@@ -137,8 +262,8 @@ Industries:       15+ Verticals
 
 | Year | Milestone | Achievement |
 |------|-----------|-------------|
-| **2018 Q1** | 🚀 **Company Founded** | Established by AI veterans with seed funding |
-| **2019 Q2** | 💎 **First Product Launch** | AEye-Tracker beta release, 10 enterprise clients |
+| **2018 Q1** | 🚀 **Company Founded** | NEUONIX established by AI veterans with seed funding |
+| **2019 Q2** | 💎 **First Product Launch** | TrillionEYE beta release, 10 enterprise clients |
 | **2020 Q3** | 🌍 **Global Expansion** | Expanded to Europe and Asia, 50+ clients |
 | **2021 Q4** | 🏆 **Industry Recognition** | Won "Best AI Innovation" award, 100+ clients |
 | **2022 Q2** | 📈 **Series B Funding** | $20M funding round, 150+ clients |
@@ -292,262 +417,1660 @@ Industries:       15+ Verticals
 
 ## 🏆 **Our Projects**
 
-### **Transforming Industries Through Innovation**
+<div align="center">
 
-We've delivered **500+ successful projects** across **15+ industries**, helping organizations achieve digital transformation and operational excellence.
+<img src="https://img.icons8.com/3d-fluency/150/project.png" alt="Projects"/>
 
-### **Featured Project Categories**
+### **🌟 Transforming Industries Through Innovation**
 
-#### 🏭 **Industrial AI Automation**
-- Smart manufacturing optimization systems
-- Predictive maintenance platforms
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=900&lines=500%2B+Successful+Projects+Delivered;15%2B+Industries+Transformed;98%25+Client+Satisfaction+Rate;%2460M%2B+in+Client+Value+Created" alt="Project Stats" />
+
+</div>
+
+<br/>
+
+### **📊 Project Success Metrics**
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="20%">
+<img src="https://img.icons8.com/3d-fluency/94/checked.png" width="60"/><br/>
+<b>500+</b><br/>
+<sub>Projects Delivered</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://img.icons8.com/3d-fluency/94/star.png" width="60"/><br/>
+<b>98%</b><br/>
+<sub>Client Satisfaction</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://img.icons8.com/3d-fluency/94/clock.png" width="60"/><br/>
+<b>95%</b><br/>
+<sub>On-Time Delivery</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://img.icons8.com/3d-fluency/94/money-bag.png" width="60"/><br/>
+<b>97%</b><br/>
+<sub>Budget Adherence</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://img.icons8.com/3d-fluency/94/handshake.png" width="60"/><br/>
+<b>85%</b><br/>
+<sub>Long-term Partners</sub>
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+### **🎯 Featured Project Categories**
+
+<br/>
+
+## 🏭 **Industrial AI Automation Projects**
+
+<details>
+<summary><b>🤖 Smart Manufacturing Optimization System - Automotive Industry</b></summary>
+
+<br/>
+
+**Client:** Fortune 500 Automotive Manufacturer
+
+**Project Scope:**
+- AI-powered production line optimization
+- Predictive maintenance implementation
 - Quality control automation
-- Supply chain intelligence
+- Real-time performance monitoring
 
-#### 🏥 **Healthcare & Life Sciences**
-- Medical imaging AI diagnostics
-- Patient monitoring systems
-- Drug discovery platforms
-- Healthcare analytics dashboards
+**Technologies Used:**
+- TensorFlow, PyTorch for AI models
+- Computer Vision for quality inspection
+- IoT sensors and edge computing
+- Real-time data analytics platform
 
-#### 🏦 **Financial Services**
-- Fraud detection systems
-- Algorithmic trading platforms
-- Risk assessment tools
-- Customer analytics solutions
+**Deliverables:**
+- 15 AI models for different production stages
+- Custom dashboard for operations monitoring
+- Mobile app for floor managers
+- Integration with existing ERP system
 
-#### 🏪 **Retail & E-commerce**
-- Personalization engines
-- Inventory optimization
-- Customer behavior analytics
-- Omnichannel platforms
+**Results:**
+- ✅ **25% increase** in production efficiency
+- ✅ **40% reduction** in defect rates
+- ✅ **30% decrease** in unplanned downtime
+- ✅ **$5M annual savings** in operational costs
+- ✅ **ROI achieved** in 8 months
 
-#### 🚗 **Transportation & Logistics**
-- Route optimization systems
-- Fleet management platforms
-- Warehouse automation
-- Delivery tracking solutions
+**Duration:** 6 months | **Team Size:** 12 members
 
-### **Project Success Metrics**
+</details>
 
-```
-Total Projects Delivered:    500+
-Client Satisfaction:         98%
-On-Time Delivery:           95%
-Budget Adherence:           97%
-Long-term Partnerships:     85%
-```
+<details>
+<summary><b>🔧 Predictive Maintenance Platform - Energy Sector</b></summary>
+
+<br/>
+
+**Client:** Global Energy Corporation
+
+**Project Scope:**
+- AI-driven predictive maintenance for turbines
+- Sensor data analysis and anomaly detection
+- Maintenance scheduling optimization
+- Cost reduction through proactive repairs
+
+**Technologies Used:**
+- Machine Learning (Random Forest, XGBoost)
+- Time-series analysis
+- IoT integration
+- Cloud infrastructure (AWS)
+
+**Results:**
+- ✅ **50% reduction** in equipment failures
+- ✅ **35% decrease** in maintenance costs
+- ✅ **20% improvement** in equipment lifespan
+- ✅ **$8M annual savings**
+
+**Duration:** 8 months | **Team Size:** 10 members
+
+</details>
+
+<details>
+<summary><b>📊 Supply Chain Intelligence Platform - Logistics</b></summary>
+
+<br/>
+
+**Client:** International Logistics Provider
+
+**Project Scope:**
+- End-to-end supply chain visibility
+- Demand forecasting with AI
+- Route optimization algorithms
+- Inventory management automation
+
+**Technologies Used:**
+- Deep Learning for demand prediction
+- Graph algorithms for route optimization
+- Real-time tracking systems
+- Blockchain for transparency
+
+**Results:**
+- ✅ **30% reduction** in delivery times
+- ✅ **25% decrease** in inventory costs
+- ✅ **40% improvement** in forecast accuracy
+- ✅ **$12M annual savings**
+
+**Duration:** 10 months | **Team Size:** 15 members
+
+</details>
+
+<br/>
+
+## 🏥 **Healthcare & Life Sciences Projects**
+
+<details>
+<summary><b>🩺 Medical Imaging AI Diagnostics - Radiology</b></summary>
+
+<br/>
+
+**Client:** Multi-Hospital Healthcare Network
+
+**Project Scope:**
+- AI-powered X-ray and CT scan analysis
+- Disease detection and classification
+- Radiologist workflow optimization
+- HIPAA-compliant platform
+
+**Technologies Used:**
+- Deep Learning (ResNet, DenseNet)
+- Medical imaging processing (DICOM)
+- Secure cloud infrastructure
+- PACS integration
+
+**Results:**
+- ✅ **95% diagnostic accuracy** (matching expert radiologists)
+- ✅ **60% faster** diagnosis turnaround time
+- ✅ **40% increase** in patient throughput
+- ✅ **Early detection** of critical conditions
+- ✅ **FDA clearance** obtained
+
+**Duration:** 12 months | **Team Size:** 18 members
+
+</details>
+
+<details>
+<summary><b>💊 Drug Discovery AI Platform - Pharmaceutical</b></summary>
+
+<br/>
+
+**Client:** Leading Pharmaceutical Company
+
+**Project Scope:**
+- AI-accelerated drug candidate identification
+- Molecular property prediction
+- Clinical trial optimization
+- Research data management
+
+**Technologies Used:**
+- Graph Neural Networks
+- Molecular dynamics simulation
+- High-performance computing
+- Bioinformatics tools
+
+**Results:**
+- ✅ **70% reduction** in drug discovery time
+- ✅ **50% cost savings** in R&D
+- ✅ **3 promising candidates** identified
+- ✅ **2 patents filed** from discoveries
+
+**Duration:** 18 months | **Team Size:** 20 members
+
+</details>
+
+<br/>
+
+## 🏦 **Financial Services Projects**
+
+<details>
+<summary><b>🛡️ Real-Time Fraud Detection System - Banking</b></summary>
+
+<br/>
+
+**Client:** Top 10 Global Bank
+
+**Project Scope:**
+- Real-time transaction monitoring
+- AI-powered fraud pattern detection
+- Automated risk scoring
+- Regulatory compliance reporting
+
+**Technologies Used:**
+- Machine Learning (Isolation Forest, Neural Networks)
+- Stream processing (Apache Kafka)
+- Real-time analytics
+- Secure cloud deployment
+
+**Results:**
+- ✅ **85% reduction** in fraud losses
+- ✅ **99.5% accuracy** in fraud detection
+- ✅ **<100ms** transaction processing time
+- ✅ **$50M annual savings** in prevented fraud
+- ✅ **90% reduction** in false positives
+
+**Duration:** 9 months | **Team Size:** 14 members
+
+</details>
+
+<details>
+<summary><b>📈 Algorithmic Trading Platform - Investment Firm</b></summary>
+
+<br/>
+
+**Client:** Hedge Fund with $5B AUM
+
+**Project Scope:**
+- AI-driven trading strategies
+- Market sentiment analysis
+- Portfolio optimization
+- Risk management automation
+
+**Technologies Used:**
+- Deep Reinforcement Learning
+- NLP for news analysis
+- High-frequency trading infrastructure
+- Backtesting framework
+
+**Results:**
+- ✅ **18% annual returns** (vs 12% benchmark)
+- ✅ **30% reduction** in portfolio volatility
+- ✅ **Microsecond latency** execution
+- ✅ **$200M+ managed** by AI algorithms
+
+**Duration:** 14 months | **Team Size:** 16 members
+
+</details>
+
+<br/>
+
+## 🛍️ **Retail & E-commerce Projects**
+
+<details>
+<summary><b>🎯 AI Personalization Engine - E-commerce Giant</b></summary>
+
+<br/>
+
+**Client:** Top 5 E-commerce Platform
+
+**Project Scope:**
+- Personalized product recommendations
+- Dynamic pricing optimization
+- Customer segmentation
+- Churn prediction and prevention
+
+**Technologies Used:**
+- Collaborative filtering
+- Deep Learning recommendation systems
+- A/B testing framework
+- Real-time personalization
+
+**Results:**
+- ✅ **35% increase** in conversion rate
+- ✅ **50% improvement** in average order value
+- ✅ **25% reduction** in customer churn
+- ✅ **$100M additional revenue** annually
+
+**Duration:** 7 months | **Team Size:** 12 members
+
+</details>
+
+<details>
+<summary><b>📦 Inventory Optimization System - Retail Chain</b></summary>
+
+<br/>
+
+**Client:** National Retail Chain (500+ stores)
+
+**Project Scope:**
+- AI-powered demand forecasting
+- Automated inventory replenishment
+- Multi-location optimization
+- Waste reduction strategies
+
+**Technologies Used:**
+- Time-series forecasting (LSTM, Prophet)
+- Optimization algorithms
+- Cloud-based analytics
+- Mobile app for store managers
+
+**Results:**
+- ✅ **40% reduction** in stockouts
+- ✅ **30% decrease** in excess inventory
+- ✅ **25% reduction** in waste
+- ✅ **$15M annual savings**
+
+**Duration:** 6 months | **Team Size:** 10 members
+
+</details>
+
+<br/>
+
+## 🚗 **Transportation & Logistics Projects**
+
+<details>
+<summary><b>🗺️ AI Route Optimization Platform - Delivery Service</b></summary>
+
+<br/>
+
+**Client:** Last-Mile Delivery Company
+
+**Project Scope:**
+- Dynamic route optimization
+- Real-time traffic integration
+- Driver performance analytics
+- Customer delivery predictions
+
+**Technologies Used:**
+- Graph algorithms (Dijkstra, A*)
+- Machine Learning for ETA prediction
+- Google Maps API integration
+- Mobile driver app
+
+**Results:**
+- ✅ **30% reduction** in delivery times
+- ✅ **25% fuel savings**
+- ✅ **40% more deliveries** per driver
+- ✅ **95% on-time delivery** rate
+- ✅ **$8M annual savings**
+
+**Duration:** 5 months | **Team Size:** 8 members
+
+</details>
+
+<details>
+<summary><b>🚛 Fleet Management Platform - Trucking Company</b></summary>
+
+<br/>
+
+**Client:** National Trucking Fleet (1,000+ vehicles)
+
+**Project Scope:**
+- Real-time vehicle tracking
+- Predictive maintenance
+- Driver behavior monitoring
+- Fuel optimization
+
+**Technologies Used:**
+- IoT sensors and telematics
+- Machine Learning for predictions
+- Mobile and web dashboards
+- Cloud infrastructure
+
+**Results:**
+- ✅ **35% reduction** in maintenance costs
+- ✅ **20% fuel savings**
+- ✅ **50% decrease** in accidents
+- ✅ **25% improvement** in fleet utilization
+- ✅ **$10M annual savings**
+
+**Duration:** 8 months | **Team Size:** 11 members
+
+</details>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ---
 
 ## 💎 **Our Software Products**
 
-### **Enterprise-Ready AI-Powered Solutions**
+<div align="center">
 
-#### 1️⃣ **TrillionEYE VMS** (Video Management System)
-*AI-Powered Video Intelligence Platform*
+<img src="https://img.icons8.com/3d-fluency/150/software-box.png" alt="Products"/>
 
-**Overview:**
-The world's most advanced AI-powered video analytics platform with **174+ intelligent use cases**, transforming passive surveillance into proactive intelligence systems.
+### **🚀 Enterprise-Ready AI-Powered Solutions**
 
-**Key Features:**
-- 👁️ **Real-time Video Analytics** - Process multiple camera feeds simultaneously
-- 🎯 **174+ Use Cases** - From security to operations optimization
-- 🤖 **Deep Learning Models** - Advanced object detection and behavior analysis
-- 📊 **Predictive Intelligence** - Anticipate incidents before they occur
-- 🔔 **Smart Alerts** - Context-aware notifications and automated responses
-- 📈 **Business Intelligence** - Convert video data into actionable insights
-- 🌐 **Scalable Architecture** - From single camera to enterprise deployments
-- 🔒 **Enterprise Security** - End-to-end encryption and compliance
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-**Use Case Categories:**
-```
-🏢 Security & Safety:        50+ use cases
-🏭 Operations Optimization:  40+ use cases
-👥 People Analytics:         30+ use cases
-🚗 Traffic & Parking:        25+ use cases
-🛍️ Retail Intelligence:     29+ use cases
-```
+</div>
 
-**Technical Specifications:**
-- **Processing Speed:** Real-time (30+ FPS)
-- **Accuracy:** 98%+ detection accuracy
-- **Scalability:** 1,000+ cameras per instance
-- **Uptime:** 99.9% SLA
-- **Integration:** REST API, WebSocket, RTSP/RTMP
+<br/>
 
-**Industries Served:**
-- 🏢 Corporate Offices & Campuses
-- 🏭 Manufacturing & Warehouses
-- 🏪 Retail & Shopping Centers
-- 🏥 Healthcare Facilities
-- 🏫 Educational Institutions
-- 🏨 Hospitality & Hotels
-- 🚉 Transportation Hubs
+## 🎬 **TrillionEYE VMS** - AI-Powered Video Management System
 
----
+<div align="center">
 
-#### 2️⃣ **AEye-Tracker**
-*Advanced Eye-Tracking & Attention Analytics*
+<img src="https://img.icons8.com/3d-fluency/200/video-camera.png" alt="TrillionEYE"/>
 
-**Overview:**
-Cutting-edge eye-tracking technology that provides deep insights into user attention, engagement, and behavior patterns.
+### **Transforming Video into Intelligence**
 
-**Key Features:**
-- 👁️ Precision eye-tracking algorithms
-- 🎯 Attention heatmaps and gaze patterns
-- 📊 Engagement metrics and analytics
-- 🧠 Cognitive load assessment
-- 🎨 UX/UI optimization insights
-- 📱 Multi-device support
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=174%2B+AI-Powered+Use+Cases;Real-Time+Analytics+%26+Alerts;98%25%2B+Detection+Accuracy;Enterprise-Grade+Security" alt="TrillionEYE Features" />
 
-**Applications:**
-- User experience research
-- Marketing effectiveness testing
-- Accessibility improvements
-- Gaming and entertainment
-- Medical diagnostics
+[![AI Models](https://img.shields.io/badge/AI_Models-174%2B-8B5CF6?style=for-the-badge&logo=artificial-intelligence&logoColor=white)](https://trillioneye.com)
+[![Accuracy](https://img.shields.io/badge/Accuracy-98%25%2B-10B981?style=for-the-badge&logo=target&logoColor=white)](https://trillioneye.com)
+[![Real-Time](https://img.shields.io/badge/Processing-Real--Time-3B82F6?style=for-the-badge&logo=lightning&logoColor=white)](https://trillioneye.com)
+[![Uptime](https://img.shields.io/badge/Uptime-99.9%25-F59E0B?style=for-the-badge&logo=server&logoColor=white)](https://trillioneye.com)
 
----
+</div>
 
-#### 3️⃣ **Vortex-RAG**
-*Retrieval-Augmented Generation Platform*
+<br/>
 
-**Overview:**
-Next-generation RAG system that combines the power of large language models with enterprise knowledge bases for accurate, contextual AI responses.
+### **📋 Product Overview**
 
-**Key Features:**
-- 🔍 Intelligent document retrieval
-- 🧠 Context-aware generation
-- 📚 Multi-source knowledge integration
-- 🔒 Enterprise-grade security
-- ⚡ Real-time processing
-- 🎯 Domain-specific fine-tuning
+Our **AI-Powered Video Management System (VMS)** integrates advanced video analytics into one comprehensive platform. Designed for enterprises, governments, and organizations seeking to maximize security and intelligence from their video assets. TrillionEYE goes beyond traditional surveillance — it's an **intelligent vision system** that sees, analyzes, and acts in real-time.
 
-**Use Cases:**
-- Enterprise chatbots and virtual assistants
-- Knowledge management systems
-- Customer support automation
-- Research and analysis tools
-- Content generation platforms
+<br/>
 
----
+### **✨ Core Highlights**
 
-#### 4️⃣ **Enterprise AI Suite**
-*Comprehensive AI Platform for Organizations*
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/3d-fluency/94/artificial-intelligence.png" width="70"/><br/>
+<b>174+ AI Use Cases</b><br/>
+<sub>Comprehensive coverage</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/3d-fluency/94/lightning-bolt.png" width="70"/><br/>
+<b>Real-Time Analytics</b><br/>
+<sub>Instant detection & alerts</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/3d-fluency/94/cloud.png" width="70"/><br/>
+<b>Flexible Deployment</b><br/>
+<sub>Cloud, On-Prem, Hybrid</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/3d-fluency/94/accuracy.png" width="70"/><br/>
+<b>Industry-Grade Accuracy</b><br/>
+<sub>98%+ detection precision</sub>
+</td>
+</tr>
+</table>
 
-**Overview:**
-All-in-one AI platform that brings together machine learning, automation, analytics, and intelligence tools in a unified ecosystem.
+<br/>
 
-**Components:**
-- 🤖 **AutoML Platform** - No-code machine learning
-- 📊 **Analytics Dashboard** - Real-time insights and reporting
-- 🔄 **Workflow Automation** - Intelligent process orchestration
-- 🔌 **API Gateway** - Seamless integration hub
-- 🔒 **Security Center** - Compliance and governance
-- 📈 **Performance Monitor** - System health and optimization
+### **🎯 Key Capabilities**
 
-**Pricing Models:**
-```
-Startup Package:    $999/month  - Up to 10 users
-Business Package:   $2,999/month - Up to 50 users
-Enterprise Package: Custom pricing - Unlimited users
-```
+<details>
+<summary><b>� Real-Time Detection & Monitoring</b></summary>
 
----
+<br/>
 
-## 🌐 **Our Solutions**
+- **Instant Threat Detection** - Immediate alerts for security threats and anomalies
+- **Multi-Camera Processing** - Simultaneous analysis of 1,000+ camera feeds
+- **30+ FPS Processing** - Real-time video analysis without lag
+- **Smart Alert System** - Context-aware notifications with priority levels
+- **Automated Response** - Trigger actions based on detected events
+- **24/7 Monitoring** - Continuous surveillance without human fatigue
 
-### **Industry-Specific Intelligent Solutions**
+</details>
 
-We deliver tailored solutions that address unique industry challenges with AI-powered innovation.
+<details>
+<summary><b>🤖 Advanced AI Models</b></summary>
+
+<br/>
+
+**Technology Backbone:**
+- **YOLO (You Only Look Once)** - Ultra-fast object detection
+- **CNN (Convolutional Neural Networks)** - Image recognition and classification
+- **RNN (Recurrent Neural Networks)** - Temporal pattern analysis
+- **Transformer Models** - Advanced behavior understanding
+- **Custom AI Models** - Industry-specific fine-tuned models
+
+**AI Capabilities:**
+- Object detection and tracking
+- Facial recognition and analysis
+- Behavior pattern recognition
+- Anomaly detection
+- Predictive analytics
+- Natural scene understanding
+
+</details>
+
+<details>
+<summary><b>📊 Analytics & Intelligence Dashboard</b></summary>
+
+<br/>
+
+- **Unified Dashboard** - Single pane of glass for all insights
+- **Real-Time Metrics** - Live statistics and KPIs
+- **Historical Analysis** - Trend analysis and pattern recognition
+- **Custom Reports** - Automated report generation
+- **AI-Powered Search** - Quickly locate events, people, vehicles in footage
+- **Heatmaps & Visualizations** - Spatial and temporal data visualization
+- **Export & Integration** - API access for third-party systems
+
+</details>
+
+<details>
+<summary><b>🔌 Integration & Compatibility</b></summary>
+
+<br/>
+
+**Camera Support:**
+- IP Cameras (ONVIF compliant)
+- CCTV Systems (analog via encoders)
+- Thermal Cameras
+- PTZ (Pan-Tilt-Zoom) Cameras
+- 360° Cameras
+- Specialty Cameras (license plate, facial recognition)
+
+**VMS Integration:**
+- Milestone XProtect
+- Genetec Security Center
+- Avigilon Control Center
+- Nx Witness
+- Blue Iris
+- Custom VMS platforms
+
+**Deployment Options:**
+- ☁️ **Cloud-Based** - Fully managed SaaS solution
+- 🏢 **On-Premises** - Complete control and data sovereignty
+- 🔄 **Hybrid** - Best of both worlds
+
+</details>
+
+<details>
+<summary><b>🔒 Security & Compliance</b></summary>
+
+<br/>
+
+- **End-to-End Encryption** - AES-256 encryption for data at rest and in transit
+- **Role-Based Access Control (RBAC)** - Granular permission management
+- **Audit Logs** - Complete activity tracking and compliance reporting
+- **Data Privacy** - GDPR, HIPAA, SOC 2 compliant
+- **Secure Storage** - Encrypted video storage with retention policies
+- **Multi-Factor Authentication** - Enhanced security for user access
+
+</details>
+
+<br/>
+
+### **🎨 174+ AI Use Cases**
+
+<div align="center">
+
+#### **Comprehensive Coverage Across All Industries**
+
+</div>
+
+<br/>
+
+#### **� Human Behavior & Safety** (50+ Use Cases)
 
 <table>
 <tr>
 <td width="50%">
 
-### 🏭 **Manufacturing Intelligence**
-- Predictive maintenance systems
-- Quality control automation
-- Production optimization
-- Supply chain visibility
-- Energy management
-- Worker safety monitoring
+**🚨 Intrusion & Security**
+- Trespass detection
+- Loitering detection
+- Restricted area violations
+- Fence climbing detection
+- Unauthorized entry alerts
+- Perimeter breach detection
+- Camera tampering detection
+- Tailgating detection
 
-**ROI:** 35% reduction in downtime
-
-</td>
-<td width="50%">
-
-### 🏥 **Healthcare Solutions**
-- Patient monitoring systems
-- Medical imaging AI
-- Clinical decision support
-- Hospital operations optimization
-- Telemedicine platforms
-- Health records management
-
-**ROI:** 40% faster diagnosis
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🏦 **Financial Technology**
-- Fraud detection & prevention
-- Risk assessment models
-- Algorithmic trading
-- Customer analytics
-- Compliance automation
-- Payment processing
-
-**ROI:** 60% fraud reduction
+**🏃 Behavior Analytics**
+- Crowd detection & counting
+- Aggression detection
+- Fighting detection
+- Sleeping detection
+- Dwell time analysis
+- Social distancing monitoring
+- Queue management
+- Unusual behavior detection
 
 </td>
 <td width="50%">
 
-### 🏪 **Smart Retail**
-- Customer behavior analytics
-- Inventory optimization
-- Personalization engines
-- Loss prevention
-- Store operations automation
-- Omnichannel integration
+**🦺 PPE & Safety Compliance**
+- Helmet detection
+- Glove detection
+- Safety vest detection
+- Mask detection
+- PPE compliance monitoring
+- Safety gear verification
 
-**ROI:** 25% sales increase
+**🚑 Health & Safety**
+- Fall detection
+- Slip detection
+- Medical emergency detection
+- Smoke detection
+- Fire detection
+- Flooding detection
+- Thermal heat anomalies
 
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🚗 **Smart Transportation**
-- Fleet management
-- Route optimization
-- Predictive maintenance
-- Driver safety monitoring
-- Logistics automation
-- Real-time tracking
-
-**ROI:** 30% fuel savings
-
-</td>
-<td width="50%">
-
-### 🏢 **Smart Buildings**
-- Energy optimization
-- Access control systems
-- Occupancy analytics
-- Facility management
-- Environmental monitoring
-- Security automation
-
-**ROI:** 40% energy reduction
+**👤 Identity & Access**
+- Face detection & recognition
+- VIP identification
+- Blacklist/whitelist alerts
+- Age estimation
+- Gender estimation
+- Employee attendance tracking
 
 </td>
 </tr>
 </table>
+
+<br/>
+
+#### **� Vehicle Analytics & Transportation** (25+ Use Cases)
+
+<table>
+<tr>
+<td width="50%">
+
+**� Traffic Monitoring**
+- Overspeed detection
+- Wrong direction driving
+- Illegal parking detection
+- Red light violations
+- Stop sign violations
+- Abandoned vehicle detection
+- Traffic congestion analysis
+- Accident detection
+
+</td>
+<td width="50%">
+
+**🔢 License Plate & Classification**
+- ANPR (Automatic Number Plate Recognition)
+- License plate blacklist detection
+- Vehicle type classification (car, bus, truck, bike)
+- Vehicle color detection
+- Vehicle make/model recognition
+- Entry/exit logging
+- Parking occupancy monitoring
+- Toll collection automation
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+#### **🏭 Manufacturing & Industrial** (20+ Use Cases)
+
+<table>
+<tr>
+<td width="50%">
+
+**⚙️ Production Monitoring**
+- Assembly line monitoring
+- Quality control inspection
+- Defect detection
+- Production counting
+- Equipment status monitoring
+- Machine overheating detection
+- Predictive maintenance alerts
+
+</td>
+<td width="50%">
+
+**🔧 Worker Safety**
+- Restricted zone monitoring
+- Heavy machinery proximity alerts
+- Forklift safety monitoring
+- Hazardous area compliance
+- Emergency exit monitoring
+- Fire/smoke detection
+- Chemical spill detection
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+#### **📦 Logistics & Warehouse** (18+ Use Cases)
+
+- Forklift zone safety monitoring
+- Pallet movement detection
+- Loading/unloading monitoring
+- Package theft detection
+- Barcode/label recognition
+- Container tampering detection
+- Inventory tracking
+- Dock door monitoring
+- Cargo volume estimation
+- Warehouse occupancy tracking
+
+<br/>
+
+#### **🏥 Healthcare Monitoring** (22+ Use Cases)
+
+<table>
+<tr>
+<td width="50%">
+
+**🛏️ Patient Monitoring**
+- Fall detection
+- Bed occupancy monitoring
+- Wandering detection (dementia patients)
+- Sleep pattern analysis
+- Patient distress detection
+- Bed exit alerts
+
+</td>
+<td width="50%">
+
+**👨‍⚕️ Staff & Facility**
+- PPE compliance (masks, gloves, gowns)
+- Hand hygiene compliance
+- Aggression detection
+- Restricted zone violations
+- Oxygen cylinder presence
+- IV drip monitoring
+- Equipment monitoring
+- Visitor management
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+#### **🛍️ Retail & Smart City** (29+ Use Cases)
+
+<table>
+<tr>
+<td width="50%">
+
+**🏪 Retail Intelligence**
+- Footfall counting
+- Customer heatmaps
+- Dwell time analysis
+- Shelf monitoring (out-of-stock detection)
+- Queue analysis & management
+- Suspicious activity detection
+- Theft prevention
+- Customer demographics (age/gender)
+- Staff productivity tracking
+
+</td>
+<td width="50%">
+
+**� Smart City**
+- Traffic flow monitoring
+- Crowd management
+- Public safety monitoring
+- Illegal dumping detection
+- Street lighting optimization
+- Parking management
+- ATM security monitoring
+- Public transport monitoring
+- Environmental monitoring
+- Emergency response coordination
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+#### **� Education & Campus Security** (10+ Use Cases)
+
+- Face recognition for access control
+- Student attendance automation
+- Classroom monitoring
+- Aggression/bullying detection
+- Intruder detection
+- Loitering alerts
+- Fire/smoke detection
+- Emergency evacuation monitoring
+- Facility usage tracking
+- Student engagement analysis
+
+### **📊 TrillionEYE Technical Specifications**
+
+<table>
+<tr>
+<td width="50%">
+
+**⚡ Performance Metrics**
+- **Processing Speed:** Real-time (30+ FPS)
+- **Detection Accuracy:** 98%+ across all models
+- **Latency:** <100ms for real-time alerts
+- **Scalability:** 1,000+ cameras per instance
+- **Uptime SLA:** 99.9% guaranteed
+- **Concurrent Streams:** Unlimited with auto-scaling
+
+**🔧 Technical Stack**
+- **AI Frameworks:** TensorFlow, PyTorch, ONNX
+- **Video Processing:** FFmpeg, GStreamer, OpenCV
+- **Backend:** Python, Node.js, Go
+- **Database:** PostgreSQL, MongoDB, Redis
+- **Message Queue:** Kafka, RabbitMQ
+- **Cloud:** AWS, Azure, Google Cloud
+
+</td>
+<td width="50%">
+
+**🌐 Integration APIs**
+- **REST API** - Full CRUD operations
+- **WebSocket** - Real-time event streaming
+- **RTSP/RTMP** - Video stream ingestion
+- **Webhooks** - Event-driven notifications
+- **GraphQL** - Flexible data queries
+- **SDK Support** - Python, JavaScript, Java, C#
+
+**📦 Deployment Requirements**
+- **Minimum:** 8 CPU cores, 16GB RAM, 500GB SSD
+- **Recommended:** 16 CPU cores, 32GB RAM, 1TB NVMe
+- **GPU:** NVIDIA Tesla T4 or higher (optional)
+- **Network:** 1Gbps minimum bandwidth
+- **OS:** Ubuntu 20.04+, CentOS 8+, Windows Server 2019+
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+### **🏆 TrillionEYE Case Studies**
+
+<details>
+<summary><b>🌆 Smart City Deployment - Metropolitan Traffic Management</b></summary>
+
+<br/>
+
+**Client:** Major metropolitan area with 5M+ population
+
+**Challenge:**
+- Severe traffic congestion during peak hours
+- High accident rates at intersections
+- Inefficient emergency response times
+- Limited real-time visibility into traffic patterns
+
+**Solution:**
+Deployed TrillionEYE-VMS across 500+ intersections and public spaces with:
+- Real-time traffic violation detection
+- Automated accident detection and alerts
+- Crowd density monitoring for events
+- Integration with emergency services
+
+**Results:**
+- ✅ **30% reduction** in traffic congestion
+- ✅ **45% faster** emergency response times
+- ✅ **60% decrease** in traffic violations
+- ✅ **Real-time monitoring** of 500+ locations
+- ✅ **ROI achieved** in 14 months
+
+</details>
+
+<details>
+<summary><b>🏭 Manufacturing Plant - Worker Safety & Production Optimization</b></summary>
+
+<br/>
+
+**Client:** Automotive manufacturing facility with 2,000+ employees
+
+**Challenge:**
+- High workplace accident rates
+- PPE compliance issues
+- Production line inefficiencies
+- Manual quality control bottlenecks
+
+**Solution:**
+Implemented TrillionEYE across production floors with:
+- PPE detection and compliance monitoring
+- Restricted zone violation alerts
+- Equipment monitoring and predictive maintenance
+- Quality control automation
+
+**Results:**
+- ✅ **40% reduction** in workplace accidents
+- ✅ **100% PPE compliance** tracking
+- ✅ **25% improvement** in production output
+- ✅ **35% reduction** in quality defects
+- ✅ **ROI achieved** in 10 months
+
+</details>
+
+<details>
+<summary><b>🏥 Healthcare Facility - Patient Safety & Compliance</b></summary>
+
+<br/>
+
+**Client:** 500-bed hospital with multiple departments
+
+**Challenge:**
+- Patient fall incidents causing injuries
+- Manual monitoring of critical patients
+- PPE compliance tracking for staff
+- Equipment misplacement and theft
+
+**Solution:**
+Deployed TrillionEYE across ICU, emergency rooms, and general wards:
+- Fall detection with instant alerts
+- Bed occupancy and patient monitoring
+- Staff PPE compliance tracking
+- Equipment presence monitoring (oxygen cylinders, IV drips)
+
+**Results:**
+- ✅ **45% reduction** in patient fall incidents
+- ✅ **100% compliance** tracking for staff PPE
+- ✅ **Instant alerts** for equipment anomalies
+- ✅ **60% faster** response to patient emergencies
+- ✅ **ROI achieved** in 12 months
+
+</details>
+
+<details>
+<summary><b>🛍️ Retail Chain - Customer Intelligence & Loss Prevention</b></summary>
+
+<br/>
+
+**Client:** National retail chain with 100+ stores
+
+**Challenge:**
+- High shrinkage rates due to theft
+- Poor understanding of customer behavior
+- Inefficient queue management
+- Suboptimal product placement
+
+**Solution:**
+Implemented TrillionEYE across all stores with:
+- Customer footfall and heatmap analysis
+- Dwell time and engagement tracking
+- Theft detection and suspicious activity alerts
+- Queue management and optimization
+
+**Results:**
+- ✅ **20% sales uplift** from optimized product placement
+- ✅ **35% reduction** in theft incidents
+- ✅ **40% faster** checkout during peak hours
+- ✅ **25% increase** in customer satisfaction
+- ✅ **ROI achieved** in 8 months
+
+</details>
+
+<details>
+<summary><b>📦 Logistics Warehouse - Security & Operational Efficiency</b></summary>
+
+<br/>
+
+**Client:** Global logistics company with 50+ warehouses
+
+**Challenge:**
+- Cargo theft and tampering
+- Inefficient loading/unloading operations
+- Forklift safety incidents
+- Limited supply chain visibility
+
+**Solution:**
+Deployed TrillionEYE across warehouse facilities:
+- Cargo monitoring and theft detection
+- Loading bay automation and tracking
+- Forklift safety zone monitoring
+- Real-time operational analytics
+
+**Results:**
+- ✅ **60% reduction** in cargo theft
+- ✅ **30% faster** loading/unloading times
+- ✅ **50% decrease** in forklift accidents
+- ✅ **Real-time visibility** across supply chain
+- ✅ **ROI achieved** in 11 months
+
+</details>
+
+<br/>
+
+### **💰 TrillionEYE Pricing**
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+<img src="https://img.icons8.com/3d-fluency/94/rocket.png" width="60"/><br/>
+
+**🚀 Starter**
+
+<sub>Perfect for small businesses</sub>
+
+---
+
+**$999/month**
+
+- Up to 10 cameras
+- 5 AI use cases
+- Cloud deployment
+- Email support
+- 30-day retention
+- Basic analytics
+
+<br/>
+
+[![Get Started](https://img.shields.io/badge/Get-Started-8B5CF6?style=for-the-badge)](https://trillioneye.com/pricing)
+
+</td>
+<td align="center" width="33%">
+
+<img src="https://img.icons8.com/3d-fluency/94/briefcase.png" width="60"/><br/>
+
+**💼 Business**
+
+<sub>For growing enterprises</sub>
+
+---
+
+**$2,999/month**
+
+- Up to 50 cameras
+- 50 AI use cases
+- Cloud or On-Prem
+- Priority support
+- 90-day retention
+- Advanced analytics
+- Custom integrations
+
+[![Get Started](https://img.shields.io/badge/Get-Started-3B82F6?style=for-the-badge)](https://trillioneye.com/pricing)
+
+</td>
+<td align="center" width="33%">
+
+<img src="https://img.icons8.com/3d-fluency/94/crown.png" width="60"/><br/>
+
+**👑 Enterprise**
+
+<sub>For large organizations</sub>
+
+---
+
+**Custom Pricing**
+
+- Unlimited cameras
+- 174+ AI use cases
+- Hybrid deployment
+- 24/7 dedicated support
+- Custom retention
+- Full analytics suite
+- White-label options
+- SLA guarantees
+
+[![Contact Sales](https://img.shields.io/badge/Contact-Sales-10B981?style=for-the-badge)](https://trillioneye.com/contact)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br/>
+
+---
+
+## 👁️ **AEye-Tracker** - Advanced Eye-Tracking & Attention Analytics
+
+<div align="center">
+
+<img src="https://img.icons8.com/3d-fluency/150/visible.png" alt="AEye-Tracker"/>
+
+[![Precision](https://img.shields.io/badge/Precision-0.5°_Accuracy-8B5CF6?style=for-the-badge)](https://aeye-tracker.com)
+[![Real-Time](https://img.shields.io/badge/Processing-60_FPS-3B82F6?style=for-the-badge)](https://aeye-tracker.com)
+[![Multi-Device](https://img.shields.io/badge/Support-All_Devices-10B981?style=for-the-badge)](https://aeye-tracker.com)
+
+</div>
+
+### **📋 Overview**
+
+Cutting-edge eye-tracking technology that provides deep insights into user attention, engagement, and behavior patterns. AEye-Tracker uses advanced computer vision and machine learning to understand where users look, how long they engage, and what captures their attention.
+
+### **✨ Key Features**
+
+<table>
+<tr>
+<td width="50%">
+
+- 👁️ **Precision Eye-Tracking** - 0.5° accuracy at 60 FPS
+- 🎯 **Attention Heatmaps** - Visual representation of gaze patterns
+- 📊 **Engagement Metrics** - Time-to-first-fixation, dwell time, revisits
+- 🧠 **Cognitive Load Assessment** - Measure mental effort and complexity
+- 🎨 **UX/UI Optimization** - Data-driven design improvements
+- 📱 **Multi-Device Support** - Desktop, mobile, tablet, VR/AR
+
+</td>
+<td width="50%">
+
+- 🔄 **Real-Time Analysis** - Live gaze tracking and feedback
+- 📈 **Advanced Analytics** - Scanpath analysis, AOI metrics
+- 🎬 **Session Recording** - Replay user interactions with gaze overlay
+- 🔌 **Easy Integration** - SDK for web, mobile, and desktop apps
+- 🌐 **Remote Testing** - Conduct studies from anywhere
+- 📊 **Export & Reports** - Comprehensive data export and visualization
+
+</td>
+</tr>
+</table>
+
+### **🎯 Applications**
+
+- **UX Research** - Optimize interfaces and user flows
+- **Marketing Testing** - Measure ad effectiveness and engagement
+- **Accessibility** - Improve designs for all users
+- **Gaming & Entertainment** - Enhance player experience
+- **Medical Diagnostics** - Neurological and cognitive assessments
+- **Education** - Understand learning patterns and attention
+
+**Pricing:** Starting at $499/month | [Learn More →](https://aeye-tracker.com)
+
+<br/>
+
+---
+
+## 🌀 **Vortex-RAG** - Retrieval-Augmented Generation Platform
+
+<div align="center">
+
+<img src="https://img.icons8.com/3d-fluency/150/artificial-intelligence.png" alt="Vortex-RAG"/>
+
+[![Accuracy](https://img.shields.io/badge/Response_Accuracy-95%25%2B-8B5CF6?style=for-the-badge)](https://vortex-rag.com)
+[![Speed](https://img.shields.io/badge/Response_Time-<2s-3B82F6?style=for-the-badge)](https://vortex-rag.com)
+[![Enterprise](https://img.shields.io/badge/Enterprise-Ready-10B981?style=for-the-badge)](https://vortex-rag.com)
+
+</div>
+
+### **📋 Overview**
+
+Next-generation RAG (Retrieval-Augmented Generation) system that combines the power of large language models with enterprise knowledge bases for accurate, contextual AI responses. Vortex-RAG eliminates hallucinations and provides verifiable, source-backed answers.
+
+### **✨ Key Features**
+
+<table>
+<tr>
+<td width="50%">
+
+**🔍 Intelligent Retrieval**
+- Semantic search across documents
+- Multi-modal content support (text, images, tables)
+- Hybrid search (dense + sparse)
+- Contextual re-ranking
+- Source attribution and citations
+
+**🧠 Advanced Generation**
+- Context-aware responses
+- Multi-turn conversations
+- Fact verification
+- Hallucination prevention
+- Custom tone and style
+
+</td>
+<td width="50%">
+
+**📚 Knowledge Management**
+- Multi-source integration (docs, databases, APIs)
+- Automatic document processing
+- Version control and updates
+- Access control and permissions
+- Real-time synchronization
+
+**🔒 Enterprise Security**
+- End-to-end encryption
+- SOC 2 Type II compliant
+- GDPR and HIPAA ready
+- Audit logs and monitoring
+- On-premises deployment option
+
+</td>
+</tr>
+</table>
+
+### **🎯 Use Cases**
+
+- **Enterprise Chatbots** - Intelligent virtual assistants with company knowledge
+- **Customer Support** - Automated, accurate support responses
+- **Knowledge Management** - Centralized information retrieval
+- **Research & Analysis** - Quick insights from large document sets
+- **Content Generation** - Create content backed by verified sources
+
+**Pricing:** Starting at $1,999/month | [Learn More →](https://vortex-rag.com)
+
+<br/>
+
+---
+
+## 🎯 **Enterprise AI Suite** - Comprehensive AI Platform
+
+<div align="center">
+
+<img src="https://img.icons8.com/3d-fluency/150/module.png" alt="Enterprise Suite"/>
+
+[![All-in-One](https://img.shields.io/badge/Platform-All--in--One-8B5CF6?style=for-the-badge)](https://neuonix.com)
+[![Scalable](https://img.shields.io/badge/Scalability-Unlimited-3B82F6?style=for-the-badge)](https://neuonix.com)
+[![Integration](https://img.shields.io/badge/Integration-Seamless-10B981?style=for-the-badge)](https://neuonix.com)
+
+</div>
+
+### **📋 Overview**
+
+All-in-one AI platform that brings together machine learning, automation, analytics, and intelligence tools in a unified ecosystem. Built for enterprises that need comprehensive AI capabilities without managing multiple vendors.
+
+### **🧩 Platform Components**
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+<img src="https://img.icons8.com/3d-fluency/94/robot.png" width="60"/><br/>
+
+**🤖 AutoML Platform**
+
+No-code machine learning for everyone
+
+- Drag-and-drop model building
+- Automated feature engineering
+- Model training and optimization
+- One-click deployment
+- Performance monitoring
+
+</td>
+<td align="center" width="33%">
+
+<img src="https://img.icons8.com/3d-fluency/94/bar-chart.png" width="60"/><br/>
+
+**📊 Analytics Dashboard**
+
+Real-time insights and reporting
+
+- Custom dashboards
+- Interactive visualizations
+- Predictive analytics
+- Automated reporting
+- Data export and sharing
+
+</td>
+<td align="center" width="33%">
+
+<img src="https://img.icons8.com/3d-fluency/94/workflow.png" width="60"/><br/>
+
+**🔄 Workflow Automation**
+
+Intelligent process orchestration
+
+- Visual workflow builder
+- AI-powered decision making
+- Multi-system integration
+- Error handling and retry
+- Audit trails
+
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+
+<img src="https://img.icons8.com/3d-fluency/94/api.png" width="60"/><br/>
+
+**🔌 API Gateway**
+
+Seamless integration hub
+
+- RESTful and GraphQL APIs
+- Rate limiting and throttling
+- Authentication and authorization
+- API versioning
+- Developer portal
+
+</td>
+<td align="center" width="33%">
+
+<img src="https://img.icons8.com/3d-fluency/94/security-checked.png" width="60"/><br/>
+
+**🔒 Security Center**
+
+Compliance and governance
+
+- Role-based access control
+- Data encryption
+- Compliance monitoring
+- Threat detection
+- Security audits
+
+</td>
+<td align="center" width="33%">
+
+<img src="https://img.icons8.com/3d-fluency/94/speed.png" width="60"/><br/>
+
+**📈 Performance Monitor**
+
+System health and optimization
+
+- Real-time monitoring
+- Resource optimization
+- Anomaly detection
+- Capacity planning
+- Cost optimization
+
+</td>
+</tr>
+</table>
+
+### **💰 Pricing Models**
+
+<div align="center">
+
+| Package | Price | Users | Features |
+|---------|-------|-------|----------|
+| **🚀 Startup** | $999/month | Up to 10 | Core features, email support |
+| **💼 Business** | $2,999/month | Up to 50 | Advanced features, priority support |
+| **👑 Enterprise** | Custom | Unlimited | All features, dedicated support, SLA |
+
+</div>
+
+**[Schedule Demo →](https://neuonix.com/demo)** | **[Contact Sales →](https://neuonix.com/contact)**
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+---
+
+## 🌐 **Our Solutions**
+
+<div align="center">
+
+<img src="https://img.icons8.com/3d-fluency/150/solution.png" alt="Solutions"/>
+
+### **🎯 Industry-Specific Intelligent Solutions**
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&width=900&lines=Tailored+AI+Solutions+for+Every+Industry;15%2B+Industries+Transformed;Enterprise-Grade+Implementations;Proven+ROI+and+Business+Impact" alt="Solutions" />
+
+</div>
+
+<br/>
+
+### **🏭 Manufacturing Intelligence**
+
+<table>
+<tr>
+<td width="50%">
+
+<img src="https://img.icons8.com/3d-fluency/94/factory.png" width="60"/>
+
+**🔧 Core Solutions**
+- **Predictive Maintenance** - AI-powered equipment monitoring
+- **Quality Control Automation** - Computer vision inspection
+- **Production Optimization** - Real-time efficiency analysis
+- **Supply Chain Visibility** - End-to-end tracking
+- **Energy Management** - Smart consumption optimization
+- **Worker Safety Monitoring** - PPE and hazard detection
+
+</td>
+<td width="50%">
+
+**📊 Business Impact**
+- ✅ **35% reduction** in unplanned downtime
+- ✅ **40% improvement** in quality metrics
+- ✅ **25% increase** in production output
+- ✅ **30% energy cost** savings
+- ✅ **50% fewer** workplace accidents
+
+**💰 Average ROI:** 12 months
+
+**🏆 Clients:** 50+ manufacturing facilities
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+### **🏥 Healthcare Solutions**
+
+<table>
+<tr>
+<td width="50%">
+
+<img src="https://img.icons8.com/3d-fluency/94/hospital.png" width="60"/>
+
+**💊 Core Solutions**
+- **Patient Monitoring Systems** - AI-powered vital tracking
+- **Medical Imaging AI** - Diagnostic assistance
+- **Clinical Decision Support** - Evidence-based recommendations
+- **Hospital Operations** - Workflow optimization
+- **Telemedicine Platforms** - Remote care delivery
+- **Health Records Management** - Intelligent EHR systems
+
+</td>
+<td width="50%">
+
+**📊 Business Impact**
+- ✅ **40% faster** diagnosis times
+- ✅ **45% reduction** in patient falls
+- ✅ **30% improvement** in bed utilization
+- ✅ **95% diagnostic** accuracy
+- ✅ **60% faster** emergency response
+
+**💰 Average ROI:** 14 months
+
+**🏆 Clients:** 30+ healthcare facilities
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+### **🏦 Financial Technology**
+
+<table>
+<tr>
+<td width="50%">
+
+<img src="https://img.icons8.com/3d-fluency/94/bank.png" width="60"/>
+
+**💳 Core Solutions**
+- **Fraud Detection & Prevention** - Real-time monitoring
+- **Risk Assessment Models** - AI-driven scoring
+- **Algorithmic Trading** - Automated strategies
+- **Customer Analytics** - Behavior prediction
+- **Compliance Automation** - Regulatory reporting
+- **Payment Processing** - Secure transactions
+
+</td>
+<td width="50%">
+
+**📊 Business Impact**
+- ✅ **60% reduction** in fraud losses
+- ✅ **85% accuracy** in fraud detection
+- ✅ **99.5% uptime** for transactions
+- ✅ **30% improvement** in risk assessment
+- ✅ **50% faster** compliance reporting
+
+**💰 Average ROI:** 10 months
+
+**🏆 Clients:** 25+ financial institutions
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+### **🛍️ Smart Retail**
+
+<table>
+<tr>
+<td width="50%">
+
+<img src="https://img.icons8.com/3d-fluency/94/shopping-cart.png" width="60"/>
+
+**🏪 Core Solutions**
+- **Customer Behavior Analytics** - Footfall and heatmaps
+- **Inventory Optimization** - AI-powered forecasting
+- **Personalization Engines** - Tailored recommendations
+- **Loss Prevention** - Theft detection systems
+- **Store Operations** - Automated management
+- **Omnichannel Integration** - Unified commerce
+
+</td>
+<td width="50%">
+
+**📊 Business Impact**
+- ✅ **25% increase** in sales
+- ✅ **35% reduction** in theft
+- ✅ **40% decrease** in stockouts
+- ✅ **50% improvement** in conversion
+- ✅ **30% higher** customer satisfaction
+
+**💰 Average ROI:** 8 months
+
+**🏆 Clients:** 100+ retail locations
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+### **🚗 Smart Transportation**
+
+<table>
+<tr>
+<td width="50%">
+
+<img src="https://img.icons8.com/3d-fluency/94/truck.png" width="60"/>
+
+**🚛 Core Solutions**
+- **Fleet Management** - Real-time tracking and analytics
+- **Route Optimization** - AI-powered navigation
+- **Predictive Maintenance** - Vehicle health monitoring
+- **Driver Safety Monitoring** - Behavior analysis
+- **Logistics Automation** - Warehouse integration
+- **Real-time Tracking** - End-to-end visibility
+
+</td>
+<td width="50%">
+
+**📊 Business Impact**
+- ✅ **30% reduction** in fuel costs
+- ✅ **35% decrease** in maintenance expenses
+- ✅ **40% more** deliveries per vehicle
+- ✅ **50% fewer** accidents
+- ✅ **95% on-time** delivery rate
+
+**💰 Average ROI:** 11 months
+
+**🏆 Clients:** 40+ logistics companies
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+### **🏢 Smart Buildings**
+
+<table>
+<tr>
+<td width="50%">
+
+<img src="https://img.icons8.com/3d-fluency/94/building.png" width="60"/>
+
+**🏗️ Core Solutions**
+- **Energy Optimization** - Smart HVAC and lighting
+- **Access Control Systems** - Biometric security
+- **Occupancy Analytics** - Space utilization
+- **Facility Management** - Predictive maintenance
+- **Environmental Monitoring** - Air quality and comfort
+- **Security Automation** - Integrated surveillance
+
+</td>
+<td width="50%">
+
+**📊 Business Impact**
+- ✅ **40% reduction** in energy costs
+- ✅ **30% improvement** in space utilization
+- ✅ **50% faster** incident response
+- ✅ **25% decrease** in maintenance costs
+- ✅ **60% improvement** in occupant comfort
+
+**💰 Average ROI:** 15 months
+
+**🏆 Clients:** 60+ commercial buildings
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+### **🌆 Smart Cities**
+
+<table>
+<tr>
+<td width="50%">
+
+<img src="https://img.icons8.com/3d-fluency/94/city.png" width="60"/>
+
+**🏙️ Core Solutions**
+- **Traffic Management** - Congestion reduction
+- **Public Safety** - Crime prevention and monitoring
+- **Environmental Monitoring** - Pollution tracking
+- **Smart Infrastructure** - IoT-enabled utilities
+- **Emergency Response** - Coordinated services
+- **Citizen Services** - Digital platforms
+
+</td>
+<td width="50%">
+
+**📊 Business Impact**
+- ✅ **30% reduction** in traffic congestion
+- ✅ **45% faster** emergency response
+- ✅ **25% decrease** in crime rates
+- ✅ **35% improvement** in air quality
+- ✅ **50% higher** citizen satisfaction
+
+**💰 Average ROI:** 18 months
+
+**🏆 Clients:** 15+ smart city projects
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+### **🎓 Education & Campus**
+
+<table>
+<tr>
+<td width="50%">
+
+<img src="https://img.icons8.com/3d-fluency/94/school.png" width="60"/>
+
+**📚 Core Solutions**
+- **Campus Security** - AI-powered surveillance
+- **Attendance Automation** - Facial recognition
+- **Learning Analytics** - Student performance tracking
+- **Facility Management** - Resource optimization
+- **Access Control** - Smart entry systems
+- **Emergency Management** - Safety protocols
+
+</td>
+<td width="50%">
+
+**📊 Business Impact**
+- ✅ **95% automated** attendance tracking
+- ✅ **50% reduction** in security incidents
+- ✅ **30% improvement** in resource utilization
+- ✅ **40% faster** emergency response
+- ✅ **85% higher** parent satisfaction
+
+**💰 Average ROI:** 16 months
+
+**🏆 Clients:** 20+ educational institutions
+
+</td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ---
 
@@ -738,89 +2261,320 @@ Visualization:    Tableau, Power BI, D3.js, Plotly
 
 ## 📞 **Contact Us**
 
-### **Let's Transform Your Business Together**
-
 <div align="center">
 
-### **🌐 Get Started Today**
+<img src="https://img.icons8.com/3d-fluency/150/phone.png" alt="Contact"/>
 
-Ready to harness the power of AI and digital transformation? Our team of experts is here to help you achieve your business goals.
+### **🌟 Let's Transform Your Business Together**
 
----
-
-### **📍 Headquarters**
-**NeonIndustryAI**
-San Francisco, California, USA
-Innovation Hub & Global Operations Center
-
----
-
-### **📧 Email**
-- **General Inquiries:** info@neonindustryai.com
-- **Sales:** sales@neonindustryai.com
-- **Support:** support@neonindustryai.com
-- **Careers:** careers@neonindustryai.com
-- **Press:** press@neonindustryai.com
-
----
-
-### **📱 Phone**
-- **US:** +1 (555) 123-4567
-- **Europe:** +44 (20) 1234-5678
-- **Asia:** +65 1234-5678
-
----
-
-### **🌐 Online**
-- **Website:** https://neonindustryai.com
-- **LinkedIn:** linkedin.com/company/neonindustryai
-- **Twitter:** @neonindustryai
-- **GitHub:** github.com/neonindustryai
-
----
-
-### **⏰ Business Hours**
-```
-Monday - Friday:    9:00 AM - 6:00 PM (PST)
-Saturday:           10:00 AM - 4:00 PM (PST)
-Sunday:             Closed
-24/7 Support:       Available for Enterprise clients
-```
-
----
-
-### **🚀 Quick Actions**
-
-[![Schedule Demo](https://img.shields.io/badge/Schedule-Demo-8B5CF6?style=for-the-badge&logo=calendar&logoColor=white)](https://neonindustryai.com/demo)
-[![Request Quote](https://img.shields.io/badge/Request-Quote-3B82F6?style=for-the-badge&logo=document&logoColor=white)](https://neonindustryai.com/quote)
-[![View Portfolio](https://img.shields.io/badge/View-Portfolio-10B981?style=for-the-badge&logo=briefcase&logoColor=white)](https://neonindustryai.com/portfolio)
-[![Join Team](https://img.shields.io/badge/Join-Our%20Team-F59E0B?style=for-the-badge&logo=users&logoColor=white)](https://neonindustryai.com/careers)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F59E0B&center=true&vCenter=true&width=900&lines=Ready+to+Harness+the+Power+of+AI%3F;Schedule+a+Free+Consultation+Today;24%2F7+Support+for+Enterprise+Clients;Global+Presence+%7C+Local+Expertise" alt="Contact CTA" />
 
 </div>
 
+<br/>
+
+### **📍 Global Headquarters**
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+<img src="https://img.icons8.com/3d-fluency/94/usa.png" width="60"/><br/>
+
+**🇺🇸 North America**
+
+**NEUONIX HQ**
+San Francisco, California, USA
+Innovation Hub & Operations Center
+
+📍 123 AI Innovation Drive
+San Francisco, CA 94105
+
+</td>
+<td align="center" width="33%">
+
+<img src="https://img.icons8.com/3d-fluency/94/europe.png" width="60"/><br/>
+
+**🇪🇺 Europe**
+
+**NEUONIX Europe**
+London, United Kingdom
+European Operations Center
+
+📍 456 Tech Square
+London, EC2A 4BX
+
+</td>
+<td align="center" width="33%">
+
+<img src="https://img.icons8.com/3d-fluency/94/asia.png" width="60"/><br/>
+
+**🇸🇬 Asia Pacific**
+
+**NEUONIX APAC**
+Singapore
+Asia Pacific Hub
+
+📍 789 Innovation Boulevard
+Singapore 018956
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+### **📧 Get in Touch**
+
+<table>
+<tr>
+<td width="50%">
+
+<img src="https://img.icons8.com/3d-fluency/50/email.png" width="30"/> **Email Contacts**
+
+- 📨 **General Inquiries:** info@neuonix.com
+- 💼 **Sales & Partnerships:** sales@neuonix.com
+- 🛠️ **Technical Support:** support@neuonix.com
+- 👥 **Careers & Recruitment:** careers@neuonix.com
+- 📰 **Press & Media:** press@neuonix.com
+- 🤝 **Partnerships:** partners@neuonix.com
+
+</td>
+<td width="50%">
+
+<img src="https://img.icons8.com/3d-fluency/50/phone.png" width="30"/> **Phone Numbers**
+
+- 🇺🇸 **United States:** +1 (555) 123-4567
+- 🇬🇧 **United Kingdom:** +44 (20) 1234-5678
+- 🇸🇬 **Singapore:** +65 1234-5678
+- 🇩🇪 **Germany:** +49 (30) 1234-5678
+- 🇦🇺 **Australia:** +61 (2) 1234-5678
+- 🌍 **Toll-Free:** 1-800-NEON-AI
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+### **🌐 Connect With Us Online**
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="20%">
+<a href="https://neuonix.com">
+<img src="https://img.icons8.com/3d-fluency/94/domain.png" width="60"/><br/>
+<b>Website</b>
+</a>
+</td>
+<td align="center" width="20%">
+<a href="https://linkedin.com/company/neuonix">
+<img src="https://img.icons8.com/3d-fluency/94/linkedin.png" width="60"/><br/>
+<b>LinkedIn</b>
+</a>
+</td>
+<td align="center" width="20%">
+<a href="https://twitter.com/neuonix">
+<img src="https://img.icons8.com/3d-fluency/94/twitter.png" width="60"/><br/>
+<b>Twitter</b>
+</a>
+</td>
+<td align="center" width="20%">
+<a href="https://github.com/neuonix">
+<img src="https://img.icons8.com/3d-fluency/94/github.png" width="60"/><br/>
+<b>GitHub</b>
+</a>
+</td>
+<td align="center" width="20%">
+<a href="https://youtube.com/@neuonix">
+<img src="https://img.icons8.com/3d-fluency/94/youtube.png" width="60"/><br/>
+<b>YouTube</b>
+</a>
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+### **⏰ Business Hours**
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+<img src="https://img.icons8.com/3d-fluency/94/clock.png" width="50"/><br/>
+
+**🕐 Regular Hours**
+
+Monday - Friday
+9:00 AM - 6:00 PM (PST)
+
+Saturday
+10:00 AM - 4:00 PM (PST)
+
+Sunday: Closed
+
+</td>
+<td align="center" width="33%">
+
+<img src="https://img.icons8.com/3d-fluency/94/24-hours.png" width="50"/><br/>
+
+**⚡ 24/7 Support**
+
+Enterprise Clients
+Round-the-clock assistance
+
+Critical Issues
+Immediate response
+
+Global Coverage
+All time zones
+
+</td>
+<td align="center" width="33%">
+
+<img src="https://img.icons8.com/3d-fluency/94/calendar.png" width="50"/><br/>
+
+**📅 Schedule Meeting**
+
+Book a consultation
+Free 30-min session
+
+Product demo
+Live walkthrough
+
+Technical discussion
+Expert guidance
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+### **🚀 Quick Actions**
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="25%">
+<a href="https://neuonix.com/demo">
+<img src="https://img.icons8.com/3d-fluency/94/video-call.png" width="60"/><br/>
+<b>Schedule Demo</b><br/>
+<sub>See our solutions in action</sub>
+</a>
+</td>
+<td align="center" width="25%">
+<a href="https://neuonix.com/quote">
+<img src="https://img.icons8.com/3d-fluency/94/document.png" width="60"/><br/>
+<b>Request Quote</b><br/>
+<sub>Get custom pricing</sub>
+</a>
+</td>
+<td align="center" width="25%">
+<a href="https://neuonix.com/portfolio">
+<img src="https://img.icons8.com/3d-fluency/94/briefcase.png" width="60"/><br/>
+<b>View Portfolio</b><br/>
+<sub>Explore our work</sub>
+</a>
+</td>
+<td align="center" width="25%">
+<a href="https://neuonix.com/careers">
+<img src="https://img.icons8.com/3d-fluency/94/user-group-man-man.png" width="60"/><br/>
+<b>Join Our Team</b><br/>
+<sub>Career opportunities</sub>
+</a>
+</td>
+</tr>
+</table>
+
+<br/>
+
+[![Schedule Demo](https://img.shields.io/badge/📅_Schedule-Free_Demo-8B5CF6?style=for-the-badge&labelColor=1a1a2e)](https://neuonix.com/demo)
+[![Request Quote](https://img.shields.io/badge/💰_Request-Custom_Quote-3B82F6?style=for-the-badge&labelColor=1a1a2e)](https://neuonix.com/quote)
+[![View Portfolio](https://img.shields.io/badge/🎨_View-Our_Portfolio-10B981?style=for-the-badge&labelColor=1a1a2e)](https://neuonix.com/portfolio)
+[![Join Team](https://img.shields.io/badge/👥_Join-Our_Team-F59E0B?style=for-the-badge&labelColor=1a1a2e)](https://neuonix.com/careers)
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br/>
+
 ---
 
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=&fontSize=0&animation=twinkling" width="100%"/>
+
 ## 🎯 **Our Commitment**
 
-*"We don't just build software — we build partnerships. We don't just deliver projects — we deliver transformation. We don't just implement AI — we empower your future."*
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=We+Build+Partnerships%2C+Not+Just+Software;We+Deliver+Transformation%2C+Not+Just+Projects;We+Empower+Your+Future+with+AI" alt="Commitment" />
 
----
+<br/>
 
 ### **🌟 Join 500+ Organizations Already Transforming with AI**
 
-**NeonIndustryAI** — *Where Innovation Meets Excellence*
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/3d-fluency/94/checked.png" width="50"/><br/>
+<b>500+</b><br/>
+<sub>Global Clients</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/3d-fluency/94/globe.png" width="50"/><br/>
+<b>24</b><br/>
+<sub>Countries Served</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/3d-fluency/94/star.png" width="50"/><br/>
+<b>98%</b><br/>
+<sub>Client Satisfaction</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/3d-fluency/94/money-bag.png" width="50"/><br/>
+<b>$60M+</b><br/>
+<sub>Annual Revenue</sub>
+</td>
+</tr>
+</table>
+
+<br/>
 
 ---
 
-**© 2025 NeonIndustryAI. All Rights Reserved.**
+<br/>
+
+**NEUONIX** — *Where Innovation Meets Excellence*
+
+<br/>
+
+![Enterprise AI](https://img.shields.io/badge/🤖_Enterprise-AI_Leader-8B5CF6?style=for-the-badge&labelColor=1a1a2e)
+![Innovation](https://img.shields.io/badge/⚡_Innovation-Driven-3B82F6?style=for-the-badge&labelColor=1a1a2e)
+![Client Success](https://img.shields.io/badge/⭐_Client_Success-98%25-10B981?style=for-the-badge&labelColor=1a1a2e)
+![Global Reach](https://img.shields.io/badge/🌍_Global-24_Countries-F59E0B?style=for-the-badge&labelColor=1a1a2e)
+
+<br/>
+
+---
+
+<br/>
+
+**© 2025 NEUONIX. All Rights Reserved.**
 
 *Democratizing AI Technology for Businesses of All Sizes*
 
-[![Enterprise AI](https://img.shields.io/badge/Enterprise-AI%20Leader-8B5CF6?style=flat-square)](https://neonindustryai.com)
-[![Innovation](https://img.shields.io/badge/Innovation-Driven-3B82F6?style=flat-square)](https://neonindustryai.com)
-[![Client Success](https://img.shields.io/badge/Client%20Success-98%25-10B981?style=flat-square)](https://neonindustryai.com)
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=&fontSize=0&animation=twinkling" width="100%"/>
 
 </div>
 
